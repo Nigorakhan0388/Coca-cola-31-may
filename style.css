@@ -1,0 +1,17 @@
+.container{
+    position: absolute;
+    top: 30%;
+    left: 45%;
+    transform: translate(-50% -50%);
+    border-radius: 200%;
+    height: 200px;
+    width: 200px;
+    background: black;
+    box-shadow: 0 0 10px rgb(255, 0, 0), 0 0 60px rgb(255, 0, 30),0 0 20px black;
+}
+body{
+    background: #151515; display: flex;
+}
+div{
+    position: relative;
+}
